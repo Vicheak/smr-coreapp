@@ -1,0 +1,12 @@
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\bin\Debug\StudentManagementAndReport.exe.config
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\bin\Debug\StudentManagementAndReport.exe
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\bin\Debug\StudentManagementAndReport.pdb
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.csproj.AssemblyReference.cache
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.csproj.SuggestedBindingRedirects.cache
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.Properties.Resources.resources
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.Students.FrmStudent.resources
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.csproj.GenerateResource.cache
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.csproj.CoreCompileInputs.cache
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.exe
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.pdb
+D:\Target document\C# programming\Revision\Project\StudentManagementAndReport\obj\Debug\StudentManagementAndReport.Students.FrmAddOrModifyStudent.resources
